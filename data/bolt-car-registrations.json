@@ -1,0 +1,15 @@
+[
+  {
+    "id": "BOLT_1774880599718",
+    "nom": "Mampuya",
+    "prenom": "Shun",
+    "email": "shun.mampuya@gmail.com",
+    "telephone": "06 52 98 43 36",
+    "adresse": "4 Rue de Moscou",
+    "codePostal": "93500",
+    "ville": "Pantin",
+    "carteVTC": "oui",
+    "societe": "non",
+    "createdAt": "2026-03-30T14:23:19.718Z"
+  }
+]
